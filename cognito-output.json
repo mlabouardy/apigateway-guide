@@ -1,0 +1,10 @@
+{
+    "AuthenticationResult": {
+        "ExpiresIn": 3600,
+        "IdToken": "ID_TOKEN",
+        "RefreshToken": "REFRESH_TOKEN",
+        "TokenType": "Bearer",
+        "AccessToken": "ACCESS_TOKEN"
+    },
+    "ChallengeParameters": {}
+}
